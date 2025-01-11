@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,venv,pycharm,visualstudiocode,macos,linux,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,venv,pycharm,visualstudiocode,macos,linux,windows
 
+
+champion_list_file
+positional_indexes_file
 IR_data_news_12k.json
 
 ### Linux ###
